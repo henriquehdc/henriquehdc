@@ -1,5 +1,3 @@
-<div style = "background:blue">
- 
 <h2> Bem vindo ao meu perfil! 🚀 </h2>
 
 
@@ -40,5 +38,4 @@ Me chamo Henrique Dalla Cort, prazer!
 
 </br>
 
-<a href="https://www.linkedin.com/in/fernandozafani/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</div>
+<a href="https://www.linkedin.com/in/henriquedallacort/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
