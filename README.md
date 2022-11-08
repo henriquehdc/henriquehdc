@@ -1,4 +1,5 @@
-<div  style ="background-color: #EBEBEB" >
+<div style = "background:blue">
+ 
 <h2> Bem vindo ao meu perfil! 🚀 </h2>
 
 
