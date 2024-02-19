@@ -5,7 +5,7 @@
 
 Me chamo Henrique Dalla Cort, prazer! 
 
-- 👨‍💻 Pratico Java, Python, MySQL, TypeScript e mais!
+- 👨‍💻 Pratico Java, MySQL, TypeScript e mais!
 - 📚 Atualmente curso Sistemas de Informaçao na ESPM.
 - 📩 Fale comigo pelo email: [henriquedallacort@hotmail.com](mailto:henriquedallacort@hotmail.com)
 
