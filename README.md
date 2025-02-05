@@ -5,9 +5,9 @@
 
 Me chamo Henrique Dalla Cort, prazer! 
 
-- 🖱 Desenvolvedor Fullstack em [Khipo](https://www.khipo.ai/))
-- 👨‍💻 Estudo React, MySQL, TypeScript, Nest.js e mais!
+- 🖱 Desenvolvedor Júnior Fullstack em [Khipo](https://www.khipo.ai/) desde 2022.
 - 📚 Graduado em  Sistemas de Informaçao na ESPM - SP.
+- 👨‍💻 Estudo React, Nest.js, TypeScript, MySQL, Metodologias ágeis e mais!
 - 📩 Fale comigo pelo email: [henriquedallacort@hotmail.com](mailto:henriquedallacort@hotmail.com)
 
 <div>
