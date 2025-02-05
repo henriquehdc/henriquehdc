@@ -5,8 +5,9 @@
 
 Me chamo Henrique Dalla Cort, prazer! 
 
-- 👨‍💻 Pratico Java, MySQL, TypeScript e mais!
-- 📚 Atualmente curso Sistemas de Informaçao na ESPM.
+- 🖱 Desenvolvedor Fullstack em [Khipo](https://www.khipo.ai/))
+- 👨‍💻 Estudo React, MySQL, TypeScript, Nest.js e mais!
+- 📚 Graduado em  Sistemas de Informaçao na ESPM - SP.
 - 📩 Fale comigo pelo email: [henriquedallacort@hotmail.com](mailto:henriquedallacort@hotmail.com)
 
 <div>
